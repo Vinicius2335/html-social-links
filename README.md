@@ -6,9 +6,12 @@
   Projeto realizado duranta a Maratona Explore 2.0 realizado pela RocketSeat 🚀
 <p>
 
+<br>
+
 <p>
- <img src="![Screenshot](https://user-images.githubusercontent.com/55859404/177666373-429cfd5f-3af6-4241-972e-10bf58a2dad9.PNG)" alt="Social Links Screenshot" width="50%">
-</p>                                                                                                             
+ <img src="https://github.com/Vinicius2335/social-links/blob/master/assents/image/social-links.PNG?raw=true" alt="Social Links Screenshot" width="100%"">
+</p>
+
 <br>
 
 ## ✨ Tecnologias
