@@ -7,9 +7,8 @@
 <p>
 
 <p>
- <img src= "![social-links](https://user-images.githubusercontent.com/55859404/177666373-429cfd5f-3af6-4241-972e-10bf58a2dad9.PNG)  width="50%">
-</p>
-
+ <img src="![Screenshot](https://user-images.githubusercontent.com/55859404/177666373-429cfd5f-3af6-4241-972e-10bf58a2dad9.PNG)" alt="Social Links Screenshot" width="50%">
+</p>                                                                                                             
 <br>
 
 ## ✨ Tecnologias
