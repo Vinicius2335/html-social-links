@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Projeto realizado duranta a Maratona Explore 2.0 realizado pela RocketSeat 🚀
+  Projeto realizado duranta a Maratona Explore 2.0 realizado pela 🚀 RocketSeat 🚀. O objetivo é criar uma árvore de links para mídias sociais. 
 <p>
 
 <br> 
